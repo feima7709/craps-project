@@ -5,8 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
-/* Name: Fei Ma
- * Student ID: 86911681
+/*
  * Labs4.java: This file contains the main method. It asks user for userName, balance, bet and construct Thread objects
  * and calls .start() on it.
  */
