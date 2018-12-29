@@ -2,8 +2,7 @@ package hw4;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
-/* Name: Fei Ma
- * Student ID: 86911681
+/* 
  * CrapsMetricsMonitors.java: This file contains all the statistics of the entire 
  * simulation. It contains getters, setters and some functions to modify the
  * statistics. Eventually it prints a summary.
