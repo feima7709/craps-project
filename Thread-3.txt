@@ -1,0 +1,31 @@
+fei's balance: 1.0. Playing a new game...
+fei bets $1.0
+Bet is made at 1528698823539
+Rolled the 1st die at 1528698823539
+Rolled the 2nd die at 1528698823539
+Rolled a 6
+Rolled the 1st die at 1528698823539
+Rolled the 2nd die at 1528698823539
+Rolled a 11
+Rolled the 1st die at 1528698823539
+Rolled the 2nd die at 1528698823539
+Rolled a 9
+Rolled the 1st die at 1528698823539
+Rolled the 2nd die at 1528698823539
+Rolled a 7
+***** Crap out! You loose. *****
+fei's balance : $0.0
+*****************************
+*** SIMULATION STATISTICS ***
+******************************
+Games played: 1
+Games won: 0
+Games lost: 1
+Maximum Rolls in a single game: 4
+Natural Count: 0
+Craps Count: 0
+Maximum Winning Streak: 0
+Maximum Loosing Streak: 1
+Maximum balance: $1.00 
+during game 0
+

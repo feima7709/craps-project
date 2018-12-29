@@ -1,0 +1,80 @@
+fei's balance: 1.0. Playing a new game...
+fei bets $1.0
+Bet is made at 1528698823539
+Rolled the 1st die at 1528698823542
+Rolled the 2nd die at 1528698823542
+Rolled a 5
+Rolled the 1st die at 1528698823542
+Rolled the 2nd die at 1528698823542
+Rolled a 8
+Rolled the 1st die at 1528698823542
+Rolled the 2nd die at 1528698823542
+Rolled a 8
+Rolled the 1st die at 1528698823542
+Rolled the 2nd die at 1528698823542
+Rolled a 10
+Rolled the 1st die at 1528698823542
+Rolled the 2nd die at 1528698823542
+Rolled a 5
+***** Rolled the point! You win! *****
+fei's balance: 2.0. Playing a new game...
+fei bets $1.0
+Bet is made at 1528698823543
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 7
+***** Natural! You win! *****
+fei's balance: 3.0. Playing a new game...
+fei bets $1.0
+Bet is made at 1528698823543
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 4
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 7
+***** Crap out! You loose. *****
+fei's balance: 2.0. Playing a new game...
+fei bets $1.0
+Bet is made at 1528698823543
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 12
+***** Craps! You loose. *****
+fei's balance: 1.0. Playing a new game...
+fei bets $1.0
+Bet is made at 1528698823543
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 4
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 5
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 8
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 10
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 6
+Rolled the 1st die at 1528698823543
+Rolled the 2nd die at 1528698823543
+Rolled a 7
+***** Crap out! You loose. *****
+fei's balance : $0.0
+*****************************
+*** SIMULATION STATISTICS ***
+******************************
+Games played: 5
+Games won: 2
+Games lost: 3
+Maximum Rolls in a single game: 6
+Natural Count: 1
+Craps Count: 1
+Maximum Winning Streak: 2
+Maximum Loosing Streak: 3
+Maximum balance: $3.00 
+during game 2
+
