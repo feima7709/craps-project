@@ -2,8 +2,7 @@ package hw4;
 import java.util.Random;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
-/* Name: Fei Ma
- * Student ID: 86911681
+/* 
  * CrapsGame.java: This file contains the algorithm of a single game, print out
  * the process and upload all the stats inside CrapsMetricsMonitors class.
  */
