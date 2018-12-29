@@ -4,9 +4,7 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.io.FileNotFoundException;
 
-/* Name: Fei Ma
-
- * Student ID: 86911681
+/
  * CrapsSimulation.java: CrapsSimulation controls the entire simulation, it calls
  * CrapsGame to process each game and calls CrapsMetricsMonitors to upload statistics
  * It keeps runs until the user quit
